@@ -1,0 +1,13 @@
+.logo-with-text-section {
+  background-color: var(--color-dark-2);
+  padding: 48px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  color: var(--color-white);
+}
+
+.logo-with-text-image {
+  max-width: 24px;
+}
